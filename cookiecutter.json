@@ -1,0 +1,11 @@
+{
+    "author_full_name": "Hsin Hsu",
+    "author_email": "my_email@domain.com",
+    "author_github_username": "hhsu15",
+    "project_name": null,
+    "package_name": null,
+    "package_description": null,
+    "namespace": null,
+    "namespace_package": "{{ cookiecutter.namespace }}.{{ cookiecutter.package_name }}",
+    "project_description": "{{ cookiecutter.package_name }} - {{ cookiecutter.package_description }}" 
+}
