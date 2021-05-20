@@ -10,7 +10,7 @@
 
 {{ to_do_text }}
 
-{% for i in to_do_text %} = {% endfor %}
+{% for i in to_do_text %}={% endfor %}
 
 ## Developer
 
